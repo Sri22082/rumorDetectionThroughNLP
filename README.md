@@ -44,7 +44,7 @@ This Streamlit app is designed to detect whether a news article is likely fake o
      - On Windows: `.\env\Scripts\activate`
      - On macOS and Linux: `source env/bin/activate`
 4. **Install Dependencies**: `pip install -r requirements.txt`
-5. **Run the Streamlit App**: `streamlit run main.py --client.showErrorDetails=false`
+5. **Run the Streamlit App**: `streamlit run app.py --client.showErrorDetails=false`
    - This command removes cache error messages on the Streamlit interface.
 6. **Input News Article**: Input a news article into the text area.
 7. **Select Vectorizer and Classifier**: Choose a vectorizer and classifier from the sidebar.
