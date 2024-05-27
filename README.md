@@ -12,7 +12,7 @@ This Streamlit app is designed to detect whether a news article is likely fake o
 - **pandas**: For data manipulation and analysis.
 - **scikit-learn**: For machine learning functionalities.
 - **tensorflow**: For backend deep learning functionalities.
--**matplotlib**: For plotting and visualization.
+- **matplotlib**: For plotting and visualization.
 - **seaborn**: For statistical data visualization built on top of matplotlib.
 - **warnings**: For ignoring warnings.
 

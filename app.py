@@ -100,4 +100,4 @@ st.markdown("**Created with enthusiasm by Manju**")
 
 ##run with command:  .\venv\Scripts\Activate.ps1 (Enabling virtual Environment)
 
-# streamlit run main.py --client.showErrorDetails=false   to remove cache error message on streamlit interface
+# streamlit run app.py --client.showErrorDetails=false   to remove cache error message on streamlit interface
